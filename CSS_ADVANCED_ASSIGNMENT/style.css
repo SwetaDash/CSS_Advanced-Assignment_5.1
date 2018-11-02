@@ -1,0 +1,13 @@
+header{
+    background-color: blue;
+    border-radius: 50%;
+    width: 140px;
+    height: 70px;
+    border: 1px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+body{
+     background-image: repeating-linear-gradient(rgb(252, 252, 209), yellow 20%);
+}
